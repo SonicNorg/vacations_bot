@@ -1,0 +1,9 @@
+vacation:
+  system:
+    botUsername: calc_my_vac_bot
+    botToken: ${BOT_TOKEN}
+    maxThreads: 2
+    creatorId: ${CREATOR_ID}
+    dbPath: D:\User\Norg\vacation-bot\vacation-bot.db
+  app:
+    defaultDays: 28
